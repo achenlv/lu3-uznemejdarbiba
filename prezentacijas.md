@@ -1,5 +1,9 @@
 # AirGuard
 
+( ) Pasyfo - personalizēta alerģija simptomu prognozēšanas sistēma? https://pasyfo.lt/lv
+( ) Sazināties ar datoru arhitektūras praktisko darbu vadītāju pieredzes apmaiņai? Emil Syundyukov @ https://longenesis.com/team
+( ) Ko var dot biznesa inkubators? https://www.biznesainkubators.lu.lv/programmas/pirmsinkubacijas-programma/
+
 ## Produkts un finansējums
 
 ### Problēma un risinājums
