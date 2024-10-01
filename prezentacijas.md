@@ -218,3 +218,9 @@ Problēmu intervijas jautājumi ir mērķtiecīgi izstrādāti jautājumi, kas p
 #### Koplietošana un datu izmantošana
 29. Vai jūs vēlētos dalīties ar saviem datiem ar medicīnas speciālistiem? Kāpēc?
 30. Kādas priekšrocības saskatāt, ja varētu kopīgot savus datus ar citiem alerģiju slimniekiem?
+
+
+
+### Saites:
+ej.uz/problemas03
+ej.uz/AirGuard03
