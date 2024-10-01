@@ -1,12 +1,9 @@
 Problēmas
 
 Alerģiski cilvēki bieži nezina alergēnu līmeni apkārtējā vidē - apgrūtina spēju laicīgi veikt pasākumus, lai izvairītos no alerģiskām reakcijām
-Alergēnu līmeņa paaugstināšanās bieži tiek pamanīta pārāk vēlu - alerģiska reakcija jau ir sākusies, kas samazina iespēju veikt preventīvus pasākumus
-Cilvēkiem ir grūti uzturēt veselīgu vidi mājās vai darbā - trūkst informācijas par alergēnu klātbūtni, kas var ietekmēt gan pašus, gan viņu ģimenes vai kolēģus
 Nav vienkārša veida, kā regulāri sekot līdzi alerģiskām reakcijām un dalīties ar datiem ar ārstiem - apgrūtina precīzu diagnozi un efektīvas ārstēšanas plāna izveidi
 Alerģijas būtiski pasliktina cilvēku dzīves kvalitāti - pastāvīgs diskomforts un citi simptomui, kas ierobežo ikdienas aktivitātes
-Pastāvīga medikamentu lietošana alerģiju kontrolēšanai ir dārga un var radīt blakusefektus - trūkst alternatīvu, kas ļautu samazināt šo nepieciešamību  
-=> Medikamentu nepamatota lietošana 
+Medikamentu nepamatota lietošana  ir dārga un var radīt blakusefektus - trūkst alternatīvu, kas ļautu samazināt šo nepieciešamību
 
 
 Problēmu intervijas jautājumi
@@ -55,15 +52,22 @@ Kur jūs dzīvojat? Pilsētā vai lauku reģionā?
 
 Problēmu intervijas jautājumi gatavs
 
+Slaids1:
 Vai jūs vai kāds jūsu ģimenes loceklis ir jutīgs pret putekļiem, putekšņiem vai citiem alergēniem? Kā tas ietekmē jūsu/viņu ikdienu?
+Slaids2:
+Cik bieži jums ir bijušas situācijas, kad pēkšņi radās alerģiska reakcija?
 Kādas grūtības jūs parasti piedzīvojat saistībā ar alerģijām?
+Slaids3:
 No 1-10, cik svarīgi jums ir zināt, kad apkārtējā vidē paaugstinās putekļu vai putekšņu līmenis?
 No 1-10, cik noderīga jums būtu iespēja uzraudzīt un reģistrēt alerģiskas reakcijas un dalīties ar šo informāciju ar ārstiem?
 No 1-10, cik svarīgi būtu samazināt medikamentu lietošanu alerģijas simptomu mazināšanai?
+Slaids4:
 Kā jūs šobrīd risinat šo problēmu? Kāpēc izvēlaties tieši šo risinājumu?
 Vai izmantojat kādus rīkus vai tehnoloģijas, lai uzraudzītu alerģijas? Ja jā, tad kādus un kādas ir galvenās grūtības, ar kurām sastopaties, lietojot šos rīkus?
-Cik daudz aptuveni jūs tērējat pašreizējam risinājumam alerģijas simptomu mazināšanai?
 Ja jums būtu pieejams sensors, kas varētu palīdzēt jums laicīgi reaģēt uz alergēnu klātbūtni, kādas funkcijas jūs visvairāk novērtētu?
+Slaids5:
+Cik daudz aptuveni jūs tērējat pašreizējam risinājumam alerģijas simptomu mazināšanai?
+	Slaids6:
 Kāds ir jūsu dzimums?
 Kāds ir jūsu vecums?
 Kāds ir jūsu ienākumu diapazons mēnesī uz 1 ģimenes locekli (pēc nodokļu nomaksas)?
